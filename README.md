@@ -6,37 +6,46 @@ PySAL Workshop at NARSC20
 
 ### Instructors
 
-* Serge Rey - UCR
+* Serge Rey - University of California Riverside, Center for Geospatial Sciences
+* Elijah Knaap - University of California Riverside, Center for Geospatial Sciences
 
 ---
 
 ## Schedule
 
-### Part 1
+### AM Session
+1. Introduction (20 min)
+    - Welcome
+    - PySAL Overview
+3. Software and Tool (60 min)
+    - Anaconda Python Distribution
+    - IPython/Jupyter Notebooks
+4. Python Primer (80 min)
+    - Data structures
+    - Control and Iteration
+    - Functions and Modules
+    - Files
+    
+### Break (1-hour)
 
-1. First Section
-   + subsection
-   + subsection
+### PM Session
 
+3. PySAL for ESDA (80 min)
+    - Spatial data processing with PySAL (40 min)
+        - Processing spatial data with PySAL
+        - Spatial weights in PySAL
+    - ESDA with PySAL (40 min)
+        - Global spatial autocorrelation analysis
+        - Local spatial autocorrelation analysis
+4. PySAL for Regional Analysis (80 min)
+    - Regionalization (40 minutes)
+        - clustering
+        - spatially constrained clustering
+    - Spatial Segregation Analysis (40 minutes)
+        - spatial and aspatial indices
+        - comparative inference
+        - decomposition
 
-2. Second section
-
-   + subsection
-   + subsection
-
-### Break
-
-### Part 2
-
-3. Third Section
-
-   + subsection
-   + subection
-
-4. Fourth Section
-
-   + subsection
-   + subection
 
 ## Obtaining Workshop Materials
 
