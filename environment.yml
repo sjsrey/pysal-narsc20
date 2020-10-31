@@ -1,4 +1,4 @@
-name: pysal-workshop
+name: pysal-narsc20
 channels:
   - conda-forge
   - defaults
