@@ -4,6 +4,32 @@
 
 PySAL Workshop at NARSC20
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.img-container {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+  
+}
+</style>
+
+<div class='clearfix' style=max-height: 220px;>
+<img class="img-container" src='figs/readmefigs/cgs_hex_logo_v1.1.png' >
+<img class="img-container" src='figs/readmefigs/pysal_logo.png'>
+<img class="img-container" src='figs/readmefigs/geopandas_logo.png' >
+
+</div>
+
 ### Instructors
 
 * Serge Rey - University of California Riverside, Center for Geospatial Sciences

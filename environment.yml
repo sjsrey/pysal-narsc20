@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - python =3.7
+  - mamba
   - bokeh
   - pip
   - geopandas
@@ -11,6 +12,7 @@ dependencies:
   - folium
   - ipython
   - ipywidgets
+  - ipykernel
   - jupyterlab
   - pysal
   - nbconvert
