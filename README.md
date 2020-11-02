@@ -5,7 +5,7 @@
 PySAL Workshop at NARSC20
 
 <p align="center">
-<img class="img-container" src='figs/readmefigs/spatial_logos.png' >
+<img height=160 src='figs/readmefigs/spatial_logos.png' >
 </p>
 
 ### Instructors
